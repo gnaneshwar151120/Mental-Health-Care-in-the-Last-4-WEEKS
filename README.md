@@ -79,11 +79,11 @@ The analysis is driven by three primary research questions:
 /mental-health-covid19-analysis
 ├── /data               # Raw and processed datasets (source linked)
 ├── /scripts            # SQL queries & Python analysis scripts
-├── /visualizations     # Figures and graphs (FIG.1 – FIG.9)
+├── /visualizations     # Figures and graphs 
 ├── /docs               # Research paper and supporting documents
 │   └── Mental_Health_Care_in_the_Last_4_Weeks.pdf
 ├── README.md           # Project overview (this file)
-└── requirements.txt    # Python and system dependencies
+
 ```
 
 ---
